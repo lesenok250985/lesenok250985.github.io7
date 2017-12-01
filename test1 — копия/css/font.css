@@ -1,0 +1,10 @@
+/* font-family: "LatoRegular"; */
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot");
+    src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
+    url("../fonts/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
